@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+#link{
+    font-style: italic;
+    background-color: blueviolet;
+    font-size: xx-large;
+    font-display: black;
+}
+h2,h4{
+    font-style: oblique;
+}
+#frd{
+    background-color: yellow;
+    border-radius: 25px;
+}
+#fav{
+    background-color: yellowgreen;
+    border-radius: 25px;
+}
+#new{
+    background-color: brown;
+    border-radius: 25px
+}
+p{
+    font-style: oblique;
+    font-size: x-large;
+}
